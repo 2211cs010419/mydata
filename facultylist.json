@@ -1,0 +1,269 @@
+{
+    "faculty": [
+        {
+            "name": "Dr. Meeravali Shaikh",
+            "degree": [
+                "B. Tech (CSE)",
+                "M. Tech (CSE)",
+                "Ph. D (CSE)"
+            ],
+            "position": "HOD",
+            "experience": "13 Years"
+        },
+        {
+            "name": "Dr. Arun Singh Chouhan",
+            "degree": [
+                "B.E (CSE)",
+                "M. Tech (CSE)",
+                "Ph. D (CSE)"
+            ],
+            "position": "Associate Professor",
+            "experience": "15 Years"
+           
+        },
+        {
+            "name": "Dr. M. Narayanan",
+            "degree": [
+                "B.E (CSE)",
+                "M.E (CSE)",
+                "Ph. D (CSE)"
+            ],
+            "position": "Professor",
+            "experience": "17 Years"
+           
+        },
+        {
+            "name": "Dr. P. Rambabu",
+            "degree": [
+                "B.Tech(Civil)",
+                "M. Tech(Remote Sensing)",
+                "Ph. D(Remote Sensing)"
+            ],
+            "position": "Professor",
+            "experience": "20 Years (Industry), 13 Years (Teaching)"
+            
+        },
+        {
+            "name": "Dr. M. Ravikanth",
+            "degree": [
+                "B. Tech (CSE)",
+                "M. Tech (CSE)",
+                "Ph. D (CSE)"
+            ],
+            "position": "Associate Professor",
+            "experience": "17 Years"
+           
+        },
+        {
+            "name": "Dr. T. Phanindra",
+            "degree": [
+                "B. Tech(EEE)",
+                "M. Tech (EEE)",
+                "Ph.D (EEE)"
+            ],
+            "position": "Associate Professor",
+            "experience": "12 Years"
+            
+        },
+        {
+            "name": "Dr. B. Jogeswara Rao",
+            "degree": [
+                "MSc (Comp)",
+                "M. Tech (CSE)",
+                "Ph. D (CSE)"
+            ],
+            "position": "Associate Professor",
+            "experience": "13 Years"
+            
+        },
+        {
+            "name": "Dr. M. Santhosh Kumar Goud",
+            "degree": [
+                "B.Tech (EEE)",
+                "MS(Photonics)",
+                "Ph. D (EEE)"
+            ],
+            "position": "Assistant Professor",
+            "experience": "13 Years"
+           
+        },
+        {
+            "name": "Dr. P. Aurchana",
+            "degree": [
+                "MCA",
+                "M. Tech (CSE)",
+                "Ph. D (CSE)"
+            ],
+            "position": "Assistant Professor",
+            "experience": "7 Years (Teaching), 4 Years (Full Ph.D)"
+            
+        },
+        {
+            "name": "Mr. Naveen Kumar Navuri",
+            "degree": [
+                "B. Tech(IT)",
+                "M. Tech (CSE)",
+                "Ph.D Pursuing"
+            ],
+            "position": "Assistant Professor",
+            "experience": "13 Years"
+            
+        },
+        {
+            "name": "Mr. G. Raju",
+            "degree": [
+                "MCA",
+                "M. Tech (CSE)",
+                "Ph. D Pursuing"
+            ],
+            "position": "Assistant Professor",
+            "experience": "13 Years"
+           
+        },
+        {
+            "name": "Mr. M. Krishna Kishore",
+            "degree": [
+                "B. Tech (IT)",
+                "M. Tech (CSE)",
+                "Ph. D (Pursuing)"
+            ],
+            "position": "Assistant Professor",
+            "experience": "12 Years"
+            
+        },
+        {
+            "name": "Mrs. D. Suneetha",
+            "degree": [
+                "B. Tech (CSE)",
+                "M. Tech (CSE)",
+                "Ph. D Pursuing"
+            ],
+            "position": "Assistant Professor",
+            "experience": "10 Years"
+           
+        },
+        {
+            "name": "T. Indira Priyadarshini",
+            "degree": [
+                "B. Tech (CSE)",
+                "M. Tech (CSE)",
+                "Ph. D (Pursuing)"
+            ],
+            "position": "Assistant Professor",
+            "experience": "9.5 Years"
+           
+        },
+        {
+            "name": "Mrs. P. Sabitha",
+            "degree": [
+                "B. Tech (CSE)",
+                "M. Tech (CSE)",
+                "Ph. D (Pursuing)"
+            ],
+            "position": "Assistant Professor",
+            "experience": "6.5 Years"
+            
+        },
+        {
+            "name": "Mrs. B. Tejaswi",
+            "degree": [
+                "B. Tech (CSE)",
+                "M. Tech (CNIS)",
+                "Ph. D (Pursuing)"
+            ],
+            "position": "Assistant Professor",
+            "experience": "10 Years"
+            
+        },
+        {
+            "name": "Mr. T. Srajan Kumar",
+            "degree": [
+                "B. Tech (CSE)",
+                "M. Tech (CSE)",
+                "Ph. D (Pursuing)"
+            ],
+            "position": "Assistant Professor",
+            "experience": "9 Years"
+            
+        },
+        {
+            "name": "Mr. N. V. Krishna Rao",
+            "degree": [
+                "B. Tech (CSE)",
+                "M. Tech (CSE)",
+                "Ph. D (Pursuing)"
+            ],
+            "position": "Assistant Professor",
+            "experience": "21 Years"
+           
+        },
+        {
+            "name": "Mrs. P. Shyamala",
+            "degree": [
+                "M. Tech (CSE)",
+                "MCA"
+            ],
+            "position": "Assistant Professor",
+            "experience": "17 Years"
+           
+        },
+        {
+            "name": "Mr. M. Gouthamm",
+            "degree": [
+                "B. Tech (CSE)",
+                "M. Tech (CSE)"
+            ],
+            "position": "Assistant Professor",
+            "experience": "9 Years"
+           
+        },
+        {
+            "name": "Mrs. M. Mounika",
+            "degree": [
+                "B. Tech (CSIT)",
+                "M. Tech (CSE)"
+            ],
+            "position": "Assistant Professor",
+            "experience": "10 Years"
+           
+        },
+        {
+            "name": "Mrs. S. Monika",
+            "degree": [
+                "B. E (CSE)",
+                "M. E (CSE)"
+            ],
+            "position": "Assistant Professor",
+            "experience": "8.8 Years"
+            
+        },
+        {
+            "name": "Mrs. S. Sowmya",
+            "degree": [
+                "B. Tech (CSIT)",
+                "MS (CSIT)"
+            ],
+            "position": "Assistant Professor",
+            "experience": "6 Years"
+           
+        },
+        {
+            "name": "Mrs. K. Manasa",
+            "degree": [
+                "B. Tech (CSE)",
+                "M. Tech (CSE)"
+            ],
+            "position": "Assistant Professor",
+            "experience": "3.5 Years"
+          
+        },
+        {
+            "name": "Mr. Kishore Kumar",
+            "degree": [
+                "B. Tech(EEE)",
+                "M. Tech (EEE)"
+            ],
+            "position": "Assistant Professor"
+        }
+    ]
+}
